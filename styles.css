@@ -3,6 +3,9 @@ body {
     text-align: center;
 }
 
+a {
+    color: white;
+}
 a:hover {
     text-decoration: none;
 }
@@ -74,6 +77,11 @@ a:hover {
 
 .service-icon {
     margin-bottom: 25px;
+}
+
+/* Footer Section */
+.social-media-icon {
+    padding: 16px;
 }
 
 /* Media Queries */
