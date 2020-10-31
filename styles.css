@@ -1,0 +1,86 @@
+/* HTML Elements */
+body {
+    text-align: center;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+/* Custom Classes */
+.dark-gray-colored {
+    background-color: #393B44;
+    color: white;
+}
+
+.light-gray-colored {
+    background-color: #8D93AB;
+    color: white;
+}
+
+.baby-blue-colored {
+    background-color: #D6E0F0;
+    color: #393B44;
+}
+
+.center {
+    text-align: center;
+}
+
+/* Bootstrap Components */
+.container-fluid {
+    padding: 7% 15%;
+}
+
+/* Title Section */
+#title {
+}
+
+.title-bar {
+    padding: 0 0 10%;
+}
+
+.title-name {
+    font-size: 3rem;
+    font-weight: 100;
+    color: white;
+}
+
+.title-description {
+    font-size: 1rem;
+    font-weight: 100;
+    color: white;
+}
+
+.title-text {
+    font-size: 3rem;
+    font-weight: 900;
+    margin-bottom: 25px;
+}
+
+.title-img {
+    width: 80%;
+    border-radius: 15%;
+}
+
+/* Services Section */
+/* #services {
+    text-align: left;
+} */
+
+.service-list {
+    margin-bottom: 10%;
+}
+
+.service-icon {
+    margin-bottom: 25px;
+}
+
+/* Media Queries */
+@media (min-width: 768px) {
+
+    /* Title Section */
+    #title {
+        text-align: left;
+    }
+}
