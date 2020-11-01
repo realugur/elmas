@@ -100,4 +100,10 @@ a:hover {
         padding: 5% 15%;
     }
 
+    /* Title Section */
+    .title-text {
+        font-size: 2rem;
+        font-weight: 700;
+    }
+
 }
