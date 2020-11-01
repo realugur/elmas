@@ -56,8 +56,8 @@ a:hover {
 }
 
 .title-text {
-    font-size: 3rem;
-    font-weight: 900;
+    font-size: 2rem;
+    font-weight: 700;
     margin-bottom: 25px;
 }
 
@@ -101,9 +101,9 @@ a:hover {
     }
 
     /* Title Section */
-    .title-text {
+    /* .title-text {
         font-size: 2rem;
         font-weight: 700;
-    }
+    } */
 
 }
