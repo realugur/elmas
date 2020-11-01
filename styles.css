@@ -4,10 +4,13 @@ body {
 }
 
 a {
+    text-decoration: none;
     color: white;
 }
 a:hover {
     text-decoration: none;
+    color: white;
+    font-size: 1.5rem;
 }
 
 /* Custom Classes */
@@ -64,6 +67,7 @@ a:hover {
 .title-img {
     width: 80%;
     border-radius: 15%;
+    margin-bottom: 15%;
 }
 
 /* Services Section */
@@ -76,7 +80,12 @@ a:hover {
 }
 
 .service-icon {
-    margin-bottom: 25px;
+    margin: 15%;
+}
+
+/* Contact Section */
+.contact-header {
+    padding-bottom: 5%;
 }
 
 /* Footer Section */
@@ -89,6 +98,11 @@ a:hover {
 
     /* Title Section */
     #title {
+        text-align: left;
+    }
+
+    /* Contact Section */
+    .left-align-contact-section {
         text-align: left;
     }
 }
