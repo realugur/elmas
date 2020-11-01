@@ -92,3 +92,12 @@ a:hover {
         text-align: left;
     }
 }
+
+@media (max-width: 767px) {
+
+    /* Bootstrap Components */
+    .container-fluid {
+        padding: 5% 15%;
+    }
+
+}
